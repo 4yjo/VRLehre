@@ -1,0 +1,2753 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-11-19T17:14:09.345+01:00
+  initializedAtString: 2020-11-19T17:14:09.345+01:00
+  entries:
+  - path: Assets\ButtonScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\ButtonScript.cs
+    projectPath: Assets\ButtonScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\CapsuleMover.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\CapsuleMover.cs
+    projectPath: Assets\CapsuleMover.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\CapsuleMover.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\CapsuleMover.cs.meta
+    projectPath: Assets\CapsuleMover.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels.meta
+    projectPath: Assets\custom3dModels.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\CombinationLock.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\CombinationLock.fbx
+    projectPath: Assets\custom3dModels\CombinationLock.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\CombinationLock.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\CombinationLock.fbx.meta
+    projectPath: Assets\custom3dModels\CombinationLock.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1.meta
+    projectPath: Assets\custom3dModels\counter-balance1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials.meta
+    projectPath: Assets\custom3dModels\counter-balance1\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat.meta
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_D.tga.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat.meta
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\BalanceLabel_N.tga.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat.meta
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Glossiness..mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat.meta
+    projectPath: Assets\custom3dModels\counter-balance1\Materials\CounterBalance_BalanceBaseDown_Specular.tg.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\source.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\source.meta
+    projectPath: Assets\custom3dModels\counter-balance1\source.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx
+    projectPath: Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx.meta
+    projectPath: Assets\custom3dModels\counter-balance1\source\CounterBalance1.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_D.tga.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\BalanceLabel_N.tga.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Glossiness..png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Normal.tga.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceBaseDown_Specular.tg.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Normal.tga.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPole_Specular.tg.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png.meta
+    projectPath: Assets\custom3dModels\counter-balance1\textures\CounterBalance_BalanceMainPolePart_Normal..png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\dreieck.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\dreieck.obj
+    projectPath: Assets\custom3dModels\dreieck.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\dreieck.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\dreieck.obj.meta
+    projectPath: Assets\custom3dModels\dreieck.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\glocke.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\glocke.obj
+    projectPath: Assets\custom3dModels\glocke.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\glocke.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\glocke.obj.meta
+    projectPath: Assets\custom3dModels\glocke.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\MyFloor.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\MyFloor.obj
+    projectPath: Assets\custom3dModels\MyFloor.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\MyFloor.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\MyFloor.obj.meta
+    projectPath: Assets\custom3dModels\MyFloor.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Pfeil.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Pfeil.fbx
+    projectPath: Assets\custom3dModels\Pfeil.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Pfeil.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Pfeil.fbx.meta
+    projectPath: Assets\custom3dModels\Pfeil.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Pfeil.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Pfeil.obj
+    projectPath: Assets\custom3dModels\Pfeil.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Pfeil.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Pfeil.obj.meta
+    projectPath: Assets\custom3dModels\Pfeil.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\pyramide.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\pyramide.obj
+    projectPath: Assets\custom3dModels\pyramide.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\pyramide.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\pyramide.obj.meta
+    projectPath: Assets\custom3dModels\pyramide.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTV+CDSlot.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTV+CDSlot.fbx
+    projectPath: Assets\custom3dModels\RAWOldTV+CDSlot.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTV+CDSlot.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTV+CDSlot.fbx.meta
+    projectPath: Assets\custom3dModels\RAWOldTV+CDSlot.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTVmadePrinter.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTVmadePrinter.fbx
+    projectPath: Assets\custom3dModels\RAWOldTVmadePrinter.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTVmadePrinter.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTVmadePrinter.fbx.meta
+    projectPath: Assets\custom3dModels\RAWOldTVmadePrinter.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTVmadeScanner 1.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTVmadeScanner
+      1.fbx
+    projectPath: Assets\custom3dModels\RAWOldTVmadeScanner 1.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\RAWOldTVmadeScanner 1.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\RAWOldTVmadeScanner
+      1.fbx.meta
+    projectPath: Assets\custom3dModels\RAWOldTVmadeScanner 1.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\screen.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\screen.fbx
+    projectPath: Assets\custom3dModels\screen.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\screen.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\screen.fbx.meta
+    projectPath: Assets\custom3dModels\screen.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Weight.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Weight.fbx
+    projectPath: Assets\custom3dModels\Weight.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\Weight.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\Weight.fbx.meta
+    projectPath: Assets\custom3dModels\Weight.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\WeightSingle.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\WeightSingle.fbx
+    projectPath: Assets\custom3dModels\WeightSingle.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\custom3dModels\WeightSingle.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\custom3dModels\WeightSingle.fbx.meta
+    projectPath: Assets\custom3dModels\WeightSingle.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Dataset1.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Dataset1.unity
+    projectPath: Assets\Dataset1.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Dataset2.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Dataset2.unity
+    projectPath: Assets\Dataset2.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Dataset3.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Dataset3.unity
+    projectPath: Assets\Dataset3.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Dataset4.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Dataset4.unity
+    projectPath: Assets\Dataset4.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\destroyGrabbingTut.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\destroyGrabbingTut.cs
+    projectPath: Assets\destroyGrabbingTut.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\destroyGrabbingTut.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\destroyGrabbingTut.cs.meta
+    projectPath: Assets\destroyGrabbingTut.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Editor.meta
+    projectPath: Assets\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\CreatePuzzleEditor.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Editor\CreatePuzzleEditor.cs
+    projectPath: Assets\Editor\CreatePuzzleEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\CreatePuzzleEditor.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Editor\CreatePuzzleEditor.cs.meta
+    projectPath: Assets\Editor\CreatePuzzleEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\MyCustomEditor.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Editor\MyCustomEditor.cs
+    projectPath: Assets\Editor\MyCustomEditor.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Editor\MyCustomEditor.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Editor\MyCustomEditor.cs.meta
+    projectPath: Assets\Editor\MyCustomEditor.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\FirstLevelDataSelection.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\FirstLevelDataSelection.unity
+    projectPath: Assets\FirstLevelDataSelection.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\makeObjectFall.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\makeObjectFall.cs
+    projectPath: Assets\makeObjectFall.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Materials\BarchartButton.PNG
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton.PNG
+    projectPath: Assets\Materials\BarchartButton.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\BarchartButton.PNG.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton.PNG.meta
+    projectPath: Assets\Materials\BarchartButton.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\BarchartButton1.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton1.png
+    projectPath: Assets\Materials\BarchartButton1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\BarchartButton1.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton1.png.meta
+    projectPath: Assets\Materials\BarchartButton1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\BarchartButton2.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton2.png
+    projectPath: Assets\Materials\BarchartButton2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\BarchartButton2.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\BarchartButton2.png.meta
+    projectPath: Assets\Materials\BarchartButton2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue1.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue1.mat
+    projectPath: Assets\Materials\blue1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue1.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue1.mat.meta
+    projectPath: Assets\Materials\blue1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue2.mat
+    projectPath: Assets\Materials\blue2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue2.mat.meta
+    projectPath: Assets\Materials\blue2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue3.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue3.mat
+    projectPath: Assets\Materials\blue3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\blue3.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\blue3.mat.meta
+    projectPath: Assets\Materials\blue3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ceilingLight.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ceilingLight.mat
+    projectPath: Assets\Materials\ceilingLight.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ceilingLight.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ceilingLight.mat.meta
+    projectPath: Assets\Materials\ceilingLight.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk1.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk1.mat
+    projectPath: Assets\Materials\disk1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk1.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk1.mat.meta
+    projectPath: Assets\Materials\disk1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk2.mat
+    projectPath: Assets\Materials\disk2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk2.mat.meta
+    projectPath: Assets\Materials\disk2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk3.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk3.mat
+    projectPath: Assets\Materials\disk3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk3.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk3.mat.meta
+    projectPath: Assets\Materials\disk3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk4.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk4.mat
+    projectPath: Assets\Materials\disk4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\disk4.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\disk4.mat.meta
+    projectPath: Assets\Materials\disk4.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ErrorScreen.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ErrorScreen.mat
+    projectPath: Assets\Materials\ErrorScreen.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ErrorScreen.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ErrorScreen.mat.meta
+    projectPath: Assets\Materials\ErrorScreen.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ErrorScreen.PNG
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ErrorScreen.PNG
+    projectPath: Assets\Materials\ErrorScreen.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ErrorScreen.PNG.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ErrorScreen.PNG.meta
+    projectPath: Assets\Materials\ErrorScreen.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\floppyDisk2.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\floppyDisk2.png
+    projectPath: Assets\Materials\floppyDisk2.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\floppyDisk2.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\floppyDisk2.png.meta
+    projectPath: Assets\Materials\floppyDisk2.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\FurtherInfo.mp4
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\FurtherInfo.mp4
+    projectPath: Assets\Materials\FurtherInfo.mp4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\FurtherInfo.mp4.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\FurtherInfo.mp4.meta
+    projectPath: Assets\Materials\FurtherInfo.mp4.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\FurtherInfoTutTexture.renderTexture
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\FurtherInfoTutTexture.renderTexture
+    projectPath: Assets\Materials\FurtherInfoTutTexture.renderTexture
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\FurtherInfoTutTexture.renderTexture.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\FurtherInfoTutTexture.renderTexture.meta
+    projectPath: Assets\Materials\FurtherInfoTutTexture.renderTexture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\glowingMat2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\glowingMat2.mat
+    projectPath: Assets\Materials\glowingMat2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\glowingMat2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\glowingMat2.mat.meta
+    projectPath: Assets\Materials\glowingMat2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\glowingMaterial.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\glowingMaterial.mat
+    projectPath: Assets\Materials\glowingMaterial.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\glowingMaterial.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\glowingMaterial.mat.meta
+    projectPath: Assets\Materials\glowingMaterial.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Grabbing.mp4
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Grabbing.mp4
+    projectPath: Assets\Materials\Grabbing.mp4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Grabbing.mp4.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Grabbing.mp4.meta
+    projectPath: Assets\Materials\Grabbing.mp4.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\grabbingTut.mp4
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\grabbingTut.mp4
+    projectPath: Assets\Materials\grabbingTut.mp4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\grabbingTut.mp4.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\grabbingTut.mp4.meta
+    projectPath: Assets\Materials\grabbingTut.mp4.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\GrabbingTutTexture.renderTexture
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\GrabbingTutTexture.renderTexture
+    projectPath: Assets\Materials\GrabbingTutTexture.renderTexture
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\GrabbingTutTexture.renderTexture.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\GrabbingTutTexture.renderTexture.meta
+    projectPath: Assets\Materials\GrabbingTutTexture.renderTexture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\InvBarchartButton.PNG
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\InvBarchartButton.PNG
+    projectPath: Assets\Materials\InvBarchartButton.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\InvBarchartButton.PNG.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\InvBarchartButton.PNG.meta
+    projectPath: Assets\Materials\InvBarchartButton.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe 1\Materials\Screenshot 2020-01-13 at 12.27.28.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe
+      1\Materials\Screenshot 2020-01-13 at 12.27.28.mat
+    projectPath: Assets\Materials\Level2\Aufgabe 1\Materials\Screenshot 2020-01-13
+      at 12.27.28.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe 1\Materials\Screenshot 2020-01-13 at 12.27.28.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe
+      1\Materials\Screenshot 2020-01-13 at 12.27.28.mat.meta
+    projectPath: Assets\Materials\Level2\Aufgabe 1\Materials\Screenshot 2020-01-13
+      at 12.27.28.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-01-13 at 17.15.07.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-01-13 at 17.15.07.mat
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-01-13
+      at 17.15.07.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-01-13 at 17.15.07.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-01-13 at 17.15.07.mat.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-01-13
+      at 17.15.07.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11 at 17.40.09.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-06-11 at 17.40.09.mat
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11
+      at 17.40.09.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11 at 17.40.09.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-06-11 at 17.40.09.mat.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11
+      at 17.40.09.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11 at 17.40.27.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-06-11 at 17.40.27.mat
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11
+      at 17.40.27.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11 at 17.40.27.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Screenshot
+      2020-06-11 at 17.40.27.mat.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Screenshot 2020-06-11
+      at 17.40.27.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Materials\Titanic.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.09.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.09.png
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.09.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.09.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.09.png.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.09.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.14.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.14.png
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.14.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.14.png.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.27.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.27.png
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.27.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.27.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.27.png.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.27.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.42.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.42.png
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.42.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.42.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.42.png.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.42.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.49.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.49.png
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.49.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.49.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Level2\Aufgabe2\Screenshot
+      2020-06-11 at 17.40.49.png.meta
+    projectPath: Assets\Materials\Level2\Aufgabe2\Screenshot 2020-06-11 at 17.40.49.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton.mat
+    projectPath: Assets\Materials\Materials\BarchartButton.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton.mat.meta
+    projectPath: Assets\Materials\Materials\BarchartButton.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton1.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton1.mat
+    projectPath: Assets\Materials\Materials\BarchartButton1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton1.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton1.mat.meta
+    projectPath: Assets\Materials\Materials\BarchartButton1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton2.mat
+    projectPath: Assets\Materials\Materials\BarchartButton2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\BarchartButton2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\BarchartButton2.mat.meta
+    projectPath: Assets\Materials\Materials\BarchartButton2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\diskette.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\diskette.mat
+    projectPath: Assets\Materials\Materials\diskette.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\diskette.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\diskette.mat.meta
+    projectPath: Assets\Materials\Materials\diskette.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\floppyDisk.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\floppyDisk.mat
+    projectPath: Assets\Materials\Materials\floppyDisk.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\floppyDisk.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\floppyDisk.mat.meta
+    projectPath: Assets\Materials\Materials\floppyDisk.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\floppyDisk2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\floppyDisk2.mat
+    projectPath: Assets\Materials\Materials\floppyDisk2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\floppyDisk2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\floppyDisk2.mat.meta
+    projectPath: Assets\Materials\Materials\floppyDisk2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\FurtherInfoTutTexture.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\FurtherInfoTutTexture.mat
+    projectPath: Assets\Materials\Materials\FurtherInfoTutTexture.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\FurtherInfoTutTexture.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\FurtherInfoTutTexture.mat.meta
+    projectPath: Assets\Materials\Materials\FurtherInfoTutTexture.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\GrabbingTutTexture.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\GrabbingTutTexture.mat
+    projectPath: Assets\Materials\Materials\GrabbingTutTexture.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\GrabbingTutTexture.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\GrabbingTutTexture.mat.meta
+    projectPath: Assets\Materials\Materials\GrabbingTutTexture.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\InvBarchartButton.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\InvBarchartButton.mat
+    projectPath: Assets\Materials\Materials\InvBarchartButton.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\InvBarchartButton.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\InvBarchartButton.mat.meta
+    projectPath: Assets\Materials\Materials\InvBarchartButton.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\pngfuel.com.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\pngfuel.com.mat
+    projectPath: Assets\Materials\Materials\pngfuel.com.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\pngfuel.com.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\pngfuel.com.mat.meta
+    projectPath: Assets\Materials\Materials\pngfuel.com.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\ScatterplotButton.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\ScatterplotButton.mat
+    projectPath: Assets\Materials\Materials\ScatterplotButton.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\ScatterplotButton.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\ScatterplotButton.mat.meta
+    projectPath: Assets\Materials\Materials\ScatterplotButton.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.14.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.14.mat
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.14.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.14.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.14.mat.meta
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.14.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.42.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.42.mat
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.42.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.42.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.42.mat.meta
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.42.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.49.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.49.mat
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.49.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.49.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\Screenshot
+      2020-06-11 at 17.40.49.mat.meta
+    projectPath: Assets\Materials\Materials\Screenshot 2020-06-11 at 17.40.49.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\TeleportTutTexture.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\TeleportTutTexture.mat
+    projectPath: Assets\Materials\Materials\TeleportTutTexture.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\TeleportTutTexture.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\TeleportTutTexture.mat.meta
+    projectPath: Assets\Materials\Materials\TeleportTutTexture.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\TitanicGedreht.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\TitanicGedreht.mat
+    projectPath: Assets\Materials\Materials\TitanicGedreht.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Materials\TitanicGedreht.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Materials\TitanicGedreht.mat.meta
+    projectPath: Assets\Materials\Materials\TitanicGedreht.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\New Material 1.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\New
+      Material 1.mat
+    projectPath: Assets\Materials\New Material 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\New Material 1.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\New
+      Material 1.mat.meta
+    projectPath: Assets\Materials\New Material 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\New Material 2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\New
+      Material 2.mat
+    projectPath: Assets\Materials\New Material 2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\New Material 2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\New
+      Material 2.mat.meta
+    projectPath: Assets\Materials\New Material 2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\pink.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\pink.mat
+    projectPath: Assets\Materials\pink.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Materials\pink2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\pink2.mat
+    projectPath: Assets\Materials\pink2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\pink2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\pink2.mat.meta
+    projectPath: Assets\Materials\pink2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\pngfuel.com.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\pngfuel.com.png
+    projectPath: Assets\Materials\pngfuel.com.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\pngfuel.com.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\pngfuel.com.png.meta
+    projectPath: Assets\Materials\pngfuel.com.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ScatterplotButton.PNG
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ScatterplotButton.PNG
+    projectPath: Assets\Materials\ScatterplotButton.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\ScatterplotButton.PNG.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\ScatterplotButton.PNG.meta
+    projectPath: Assets\Materials\ScatterplotButton.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.14.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.14.png
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.14.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.14.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.14.png.meta
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.14.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.42.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.42.png
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.42.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.42.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.42.png.meta
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.42.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.49.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.49.png
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.49.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Screenshot 2020-06-11 at 17.40.49.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Screenshot
+      2020-06-11 at 17.40.49.png.meta
+    projectPath: Assets\Materials\Screenshot 2020-06-11 at 17.40.49.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teleporting.mp4
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Teleporting.mp4
+    projectPath: Assets\Materials\Teleporting.mp4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\Teleporting.mp4.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\Teleporting.mp4.meta
+    projectPath: Assets\Materials\Teleporting.mp4.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\teleportTutorial.mp4
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\teleportTutorial.mp4
+    projectPath: Assets\Materials\teleportTutorial.mp4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\teleportTutorial.mp4.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\teleportTutorial.mp4.meta
+    projectPath: Assets\Materials\teleportTutorial.mp4.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TeleportTutTexture.renderTexture
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\TeleportTutTexture.renderTexture
+    projectPath: Assets\Materials\TeleportTutTexture.renderTexture
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TeleportTutTexture.renderTexture.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\TeleportTutTexture.renderTexture.meta
+    projectPath: Assets\Materials\TeleportTutTexture.renderTexture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TitanicGedreht.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\TitanicGedreht.png
+    projectPath: Assets\Materials\TitanicGedreht.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\TitanicGedreht.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\TitanicGedreht.png.meta
+    projectPath: Assets\Materials\TitanicGedreht.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\yellow.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Materials\yellow.mat
+    projectPath: Assets\Materials\yellow.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\MilkyWay.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay.meta
+    projectPath: Assets\MilkyWay.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Material.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Material.meta
+    projectPath: Assets\MilkyWay\Material.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Material\MilkyWay.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Material\MilkyWay.mat
+    projectPath: Assets\MilkyWay\Material\MilkyWay.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Material\MilkyWay.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Material\MilkyWay.mat.meta
+    projectPath: Assets\MilkyWay\Material\MilkyWay.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\MilkyWaySkybox.pdf
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\MilkyWaySkybox.pdf
+    projectPath: Assets\MilkyWay\MilkyWaySkybox.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\MilkyWaySkybox.pdf.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\MilkyWaySkybox.pdf.meta
+    projectPath: Assets\MilkyWay\MilkyWaySkybox.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Texture.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Texture.meta
+    projectPath: Assets\MilkyWay\Texture.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg
+    projectPath: Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg.meta
+    projectPath: Assets\MilkyWay\Texture\MilkyWayPanorama8K.jpg.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MoveAnchorScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MoveAnchorScript.cs
+    projectPath: Assets\MoveAnchorScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MoveAnchorScript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MoveAnchorScript.cs.meta
+    projectPath: Assets\MoveAnchorScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\ControlTerm2.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\ControlTerm2.fbx
+    projectPath: Assets\MyObjects\ControlTerm2.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\ControlTerm2.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\ControlTerm2.fbx.meta
+    projectPath: Assets\MyObjects\ControlTerm2.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\myComputer.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\myComputer.fbx
+    projectPath: Assets\MyObjects\myComputer.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\myComputer.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\myComputer.fbx.meta
+    projectPath: Assets\MyObjects\myComputer.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\MyFloor.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\MyFloor.obj
+    projectPath: Assets\MyObjects\MyFloor.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\MyFloor.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\MyFloor.obj.meta
+    projectPath: Assets\MyObjects\MyFloor.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\RAWOldTV.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\RAWOldTV.fbx
+    projectPath: Assets\MyObjects\RAWOldTV.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\RAWOldTV.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\RAWOldTV.fbx.meta
+    projectPath: Assets\MyObjects\RAWOldTV.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\selectiontest.fbx
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\selectiontest.fbx
+    projectPath: Assets\MyObjects\selectiontest.fbx
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\selectiontest.fbx.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\selectiontest.fbx.meta
+    projectPath: Assets\MyObjects\selectiontest.fbx.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\selectiontest.obj
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\selectiontest.obj
+    projectPath: Assets\MyObjects\selectiontest.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\MyObjects\selectiontest.obj.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\MyObjects\selectiontest.obj.meta
+    projectPath: Assets\MyObjects\selectiontest.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\NextButtonScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\NextButtonScript.cs
+    projectPath: Assets\NextButtonScript.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat
+    projectPath: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat.meta
+    projectPath: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\noise_01.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat
+    projectPath: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat.meta
+    projectPath: Assets\Oculus\SampleFramework\Core\CustomHands\Materials\ramp_bluewhite_02.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionTeleport.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionTeleport.cs
+    projectPath: Assets\Oculus\SampleFramework\Core\Locomotion\Scripts\LocomotionTeleport.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Oculus\SampleFramework\Core\Locomotion\TeleportPoint.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Core\Locomotion\TeleportPoint.prefab
+    projectPath: Assets\Oculus\SampleFramework\Core\Locomotion\TeleportPoint.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Oculus\SampleFramework\Usage\SharedAssets\Materials\MAT_room_atlas_02.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Oculus\SampleFramework\Usage\SharedAssets\Materials\MAT_room_atlas_02.mat
+    projectPath: Assets\Oculus\SampleFramework\Usage\SharedAssets\Materials\MAT_room_atlas_02.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\plotBarchart.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\plotBarchart.cs
+    projectPath: Assets\plotBarchart.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\plotBarchart.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\plotBarchart.cs.meta
+    projectPath: Assets\plotBarchart.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotInvertedBarchart.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotInvertedBarchart.cs
+    projectPath: Assets\PlotInvertedBarchart.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotInvertedBarchart.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotInvertedBarchart.cs.meta
+    projectPath: Assets\PlotInvertedBarchart.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotScatterplot.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotScatterplot.cs
+    projectPath: Assets\PlotScatterplot.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotScatterplot.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotScatterplot.cs.meta
+    projectPath: Assets\PlotScatterplot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotterScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotterScript.cs
+    projectPath: Assets\PlotterScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PlotterScript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PlotterScript.cs.meta
+    projectPath: Assets\PlotterScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Portal.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Portal.cs
+    projectPath: Assets\Portal.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Portal.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Portal.cs.meta
+    projectPath: Assets\Portal.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\CD.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\CD.prefab
+    projectPath: Assets\Prefabs\CD.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\CD.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\CD.prefab.meta
+    projectPath: Assets\Prefabs\CD.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\CodeDisplay.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\CodeDisplay.prefab
+    projectPath: Assets\Prefabs\CodeDisplay.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\CodeDisplay.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\CodeDisplay.prefab.meta
+    projectPath: Assets\Prefabs\CodeDisplay.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Computer.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\Computer.prefab
+    projectPath: Assets\Prefabs\Computer.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Computer.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\Computer.prefab.meta
+    projectPath: Assets\Prefabs\Computer.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\FloppyDisk.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\FloppyDisk.prefab
+    projectPath: Assets\Prefabs\FloppyDisk.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\FloppyDisk.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\FloppyDisk.prefab.meta
+    projectPath: Assets\Prefabs\FloppyDisk.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Island.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\Island.prefab
+    projectPath: Assets\Prefabs\Island.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\My_OVRPlayerController Variant.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_OVRPlayerController
+      Variant.prefab
+    projectPath: Assets\Prefabs\My_OVRPlayerController Variant.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\My_OVRPlayerController Variant.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_OVRPlayerController
+      Variant.prefab.meta
+    projectPath: Assets\Prefabs\My_OVRPlayerController Variant.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\My_Teleport_Everywhere.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_Teleport_Everywhere.prefab
+    projectPath: Assets\Prefabs\My_Teleport_Everywhere.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\My_Teleport_Everywhere.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_Teleport_Everywhere.prefab.meta
+    projectPath: Assets\Prefabs\My_Teleport_Everywhere.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\My_TeleportBeam.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_TeleportBeam.prefab
+    projectPath: Assets\Prefabs\My_TeleportBeam.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\My_TeleportBeam.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\My_TeleportBeam.prefab.meta
+    projectPath: Assets\Prefabs\My_TeleportBeam.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\MyWalls.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\MyWalls.prefab
+    projectPath: Assets\Prefabs\MyWalls.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\MyWalls.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\MyWalls.prefab.meta
+    projectPath: Assets\Prefabs\MyWalls.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\RAWOldTV.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\RAWOldTV.prefab
+    projectPath: Assets\Prefabs\RAWOldTV.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\RAWOldTV.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\RAWOldTV.prefab.meta
+    projectPath: Assets\Prefabs\RAWOldTV.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\RAWOldTV+Buttons.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\RAWOldTV+Buttons.prefab
+    projectPath: Assets\Prefabs\RAWOldTV+Buttons.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\RAWOldTV+Buttons.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\RAWOldTV+Buttons.prefab.meta
+    projectPath: Assets\Prefabs\RAWOldTV+Buttons.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\SceneSetUp.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SceneSetUp.prefab
+    projectPath: Assets\Prefabs\SceneSetUp.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\SceneSetUp.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SceneSetUp.prefab.meta
+    projectPath: Assets\Prefabs\SceneSetUp.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\SetUpScene\LightingPref.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SetUpScene\LightingPref.prefab
+    projectPath: Assets\Prefabs\SetUpScene\LightingPref.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\SetUpScene\LightingPref.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SetUpScene\LightingPref.prefab.meta
+    projectPath: Assets\Prefabs\SetUpScene\LightingPref.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab
+    projectPath: Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab.meta
+    projectPath: Assets\Prefabs\SetUpScene\OVRPlayerControllerMyPref.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Prefabs\TeleportBeams.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\TeleportBeams.prefab
+    projectPath: Assets\Prefabs\TeleportBeams.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\TeleportBeams.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Prefabs\TeleportBeams.prefab.meta
+    projectPath: Assets\Prefabs\TeleportBeams.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PreviousButtonScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PreviousButtonScript.cs
+    projectPath: Assets\PreviousButtonScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\PreviousButtonScript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\PreviousButtonScript.cs.meta
+    projectPath: Assets\PreviousButtonScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\close icon.PNG
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\close
+      icon.PNG
+    projectPath: Assets\Resources\close icon.PNG
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\close icon.PNG.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\close
+      icon.PNG.meta
+    projectPath: Assets\Resources\close icon.PNG.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\close icon.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\close
+      icon.mat
+    projectPath: Assets\Resources\Materials\close icon.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\close icon.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\close
+      icon.mat.meta
+    projectPath: Assets\Resources\Materials\close icon.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D1.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D1.mat
+    projectPath: Assets\Resources\Materials\D1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D1.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D1.mat.meta
+    projectPath: Assets\Resources\Materials\D1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D2.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D2.mat
+    projectPath: Assets\Resources\Materials\D2.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D2.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D2.mat.meta
+    projectPath: Assets\Resources\Materials\D2.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D3.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D3.mat
+    projectPath: Assets\Resources\Materials\D3.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D3.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D3.mat.meta
+    projectPath: Assets\Resources\Materials\D3.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D4.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D4.mat
+    projectPath: Assets\Resources\Materials\D4.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\Materials\D4.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\Materials\D4.mat.meta
+    projectPath: Assets\Resources\Materials\D4.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Resources\OVRBuildConfig.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Resources\OVRBuildConfig.asset
+    projectPath: Assets\Resources\OVRBuildConfig.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\RotateLockInput.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\RotateLockInput.cs
+    projectPath: Assets\RotateLockInput.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\RotateLockInput.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\RotateLockInput.cs.meta
+    projectPath: Assets\RotateLockInput.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeChecker.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeChecker.cs
+    projectPath: Assets\SafeChecker.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeChecker.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeChecker.cs.meta
+    projectPath: Assets\SafeChecker.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey1Pressed.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey1Pressed.cs
+    projectPath: Assets\SafeKey1Pressed.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey1Pressed.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey1Pressed.cs.meta
+    projectPath: Assets\SafeKey1Pressed.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey2Pressed.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey2Pressed.cs
+    projectPath: Assets\SafeKey2Pressed.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey2Pressed.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey2Pressed.cs.meta
+    projectPath: Assets\SafeKey2Pressed.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey3Pressed.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey3Pressed.cs
+    projectPath: Assets\SafeKey3Pressed.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey3Pressed.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey3Pressed.cs.meta
+    projectPath: Assets\SafeKey3Pressed.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey4Pressed.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey4Pressed.cs
+    projectPath: Assets\SafeKey4Pressed.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKey4Pressed.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKey4Pressed.cs.meta
+    projectPath: Assets\SafeKey4Pressed.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKeyResetPressed.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKeyResetPressed.cs
+    projectPath: Assets\SafeKeyResetPressed.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SafeKeyResetPressed.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SafeKeyResetPressed.cs.meta
+    projectPath: Assets\SafeKeyResetPressed.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ScanInfo.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\ScanInfo.cs
+    projectPath: Assets\ScanInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\ScanInfo.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\ScanInfo.cs.meta
+    projectPath: Assets\ScanInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity.meta"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity.meta"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramide.unity.meta"
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity.meta"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity.meta"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramiden.unity.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity.meta"
+    fullPath: "C:\\Users\\s6965542\\Desktop\\UnityDateien\\sliding doors\\Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity.meta"
+    projectPath: "Assets\\Scenes\\FirstLevel\\Bev\xF6lkerungspyramidenMitKnopf.unity.meta"
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\FirstLevel\Dataplotter - Kopie for backup.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\FirstLevel\Dataplotter
+      - Kopie for backup.unity
+    projectPath: Assets\Scenes\FirstLevel\Dataplotter - Kopie for backup.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\FirstLevel\Dataplotter - Kopie for backup.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\FirstLevel\Dataplotter
+      - Kopie for backup.unity.meta
+    projectPath: Assets\Scenes\FirstLevel\Dataplotter - Kopie for backup.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\FirstLevel\Dataplotter.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\FirstLevel\Dataplotter.unity
+    projectPath: Assets\Scenes\FirstLevel\Dataplotter.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\FirstLevel\Dataplotter.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\FirstLevel\Dataplotter.unity.meta
+    projectPath: Assets\Scenes\FirstLevel\Dataplotter.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\instructions + teleporting - Kopie.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\instructions
+      + teleporting - Kopie.unity
+    projectPath: Assets\Scenes\instructions + teleporting - Kopie.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\instructions + teleporting - Kopie.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\instructions
+      + teleporting - Kopie.unity.meta
+    projectPath: Assets\Scenes\instructions + teleporting - Kopie.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\instructions + teleporting.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\instructions
+      + teleporting.unity
+    projectPath: Assets\Scenes\instructions + teleporting.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Instructions + vrtk.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Instructions
+      + vrtk.unity
+    projectPath: Assets\Scenes\Instructions + vrtk.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\Instructions + vrtk.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Instructions
+      + vrtk.unity.meta
+    projectPath: Assets\Scenes\Instructions + vrtk.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\Instructions.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Instructions.unity
+    projectPath: Assets\Scenes\Instructions.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\Introduction.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction.meta
+    projectPath: Assets\Scenes\Introduction.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Introduction\workingComputer.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction\workingComputer.unity
+    projectPath: Assets\Scenes\Introduction\workingComputer.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Introduction\workingComputer.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction\workingComputer.unity.meta
+    projectPath: Assets\Scenes\Introduction\workingComputer.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Introduction\workingComputerII.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction\workingComputerII.unity
+    projectPath: Assets\Scenes\Introduction\workingComputerII.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Introduction\workingComputerII.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction\workingComputerII.unity.meta
+    projectPath: Assets\Scenes\Introduction\workingComputerII.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\Introduction\workingComputerPackage.unitypackage.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\Introduction\workingComputerPackage.unitypackage.meta
+    projectPath: Assets\Scenes\Introduction\workingComputerPackage.unitypackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\SampleScene.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SampleScene.unity.meta
+    projectPath: Assets\Scenes\SampleScene.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\SecondLevel\BildPuzzle.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\BildPuzzle.unity
+    projectPath: Assets\Scenes\SecondLevel\BildPuzzle.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SecondLevel\PipelineTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\PipelineTask.unity
+    projectPath: Assets\Scenes\SecondLevel\PipelineTask.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SecondLevel\PipelineTaskTut.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\PipelineTaskTut.unity
+    projectPath: Assets\Scenes\SecondLevel\PipelineTaskTut.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SecondLevel\PuzzleTut.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\PuzzleTut.unity
+    projectPath: Assets\Scenes\SecondLevel\PuzzleTut.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SecondLevel\TextPuzzleTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\TextPuzzleTask.unity
+    projectPath: Assets\Scenes\SecondLevel\TextPuzzleTask.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity
+    projectPath: Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity.meta
+    projectPath: Assets\Scenes\SecondLevel\TextPuzzleTaskAmTisch.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\StarterIsland.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\StarterIsland.unity
+    projectPath: Assets\Scenes\StarterIsland.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\StarterIsland.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\StarterIsland.unity.meta
+    projectPath: Assets\Scenes\StarterIsland.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\ThirdLevel.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel.meta
+    projectPath: Assets\Scenes\ThirdLevel.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\BalanceTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\BalanceTask.unity
+    projectPath: Assets\Scenes\ThirdLevel\BalanceTask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\BalanceTask.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\BalanceTask.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\BalanceTask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity
+    projectPath: Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\BalanceTaskMitScanner.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\EmptyRoom.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\EmptyRoom.unity
+    projectPath: Assets\Scenes\ThirdLevel\EmptyRoom.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\EmptyRoom.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\EmptyRoom.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\EmptyRoom.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\EmptyRoom.unitypackage.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\EmptyRoom.unitypackage.meta
+    projectPath: Assets\Scenes\ThirdLevel\EmptyRoom.unitypackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\Safe.unitypackage.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\Safe.unitypackage.meta
+    projectPath: Assets\Scenes\ThirdLevel\Safe.unitypackage.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity
+    projectPath: Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\SafeOpeningControlLock.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SafeOpeningTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SafeOpeningTask.unity
+    projectPath: Assets\Scenes\ThirdLevel\SafeOpeningTask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SafeOpeningTask.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SafeOpeningTask.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\SafeOpeningTask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SortingTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SortingTask.unity
+    projectPath: Assets\Scenes\ThirdLevel\SortingTask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\SortingTask.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\SortingTask.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\SortingTask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\TableTickingTask.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\TableTickingTask.unity
+    projectPath: Assets\Scenes\ThirdLevel\TableTickingTask.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\ThirdLevel\TableTickingTask.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\ThirdLevel\TableTickingTask.unity.meta
+    projectPath: Assets\Scenes\ThirdLevel\TableTickingTask.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\TutorialMitTuer.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\TutorialMitTuer.meta
+    projectPath: Assets\Scenes\TutorialMitTuer.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\TutorialMitTuer.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\TutorialMitTuer.unity
+    projectPath: Assets\Scenes\TutorialMitTuer.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\TutorialMitTuer\LightingData.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\TutorialMitTuer\LightingData.asset
+    projectPath: Assets\Scenes\TutorialMitTuer\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\TutorialMitTuer\LightingData.asset.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\TutorialMitTuer\LightingData.asset.meta
+    projectPath: Assets\Scenes\TutorialMitTuer\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\workingComputer.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\workingComputer.unity
+    projectPath: Assets\Scenes\workingComputer.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scenes\workingComputer.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scenes\workingComputer.unity.meta
+    projectPath: Assets\Scenes\workingComputer.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\CheckPuzzleSlot.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\CheckPuzzleSlot.cs
+    projectPath: Assets\Scripts\CheckPuzzleSlot.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\CheckPuzzleSlot.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\CheckPuzzleSlot.cs.meta
+    projectPath: Assets\Scripts\CheckPuzzleSlot.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\destroyTeleportTut.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\destroyTeleportTut.cs
+    projectPath: Assets\Scripts\destroyTeleportTut.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\destroyTeleportTut.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\destroyTeleportTut.cs.meta
+    projectPath: Assets\Scripts\destroyTeleportTut.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Level2\PuzzleManager.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\PuzzleManager.cs
+    projectPath: Assets\Scripts\Level2\PuzzleManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Level2\slot1.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot1.cs
+    projectPath: Assets\Scripts\Level2\slot1.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot1.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot1.cs.meta
+    projectPath: Assets\Scripts\Level2\slot1.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot1Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot1Check.cs
+    projectPath: Assets\Scripts\Level2\Slot1Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot1Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot1Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot1Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot1Check-mitzurueck.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot1Check-mitzurueck.cs
+    projectPath: Assets\Scripts\Level2\Slot1Check-mitzurueck.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot1Check-mitzurueck.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot1Check-mitzurueck.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot1Check-mitzurueck.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot2.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot2.cs
+    projectPath: Assets\Scripts\Level2\slot2.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot2.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot2.cs.meta
+    projectPath: Assets\Scripts\Level2\slot2.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot2Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot2Check.cs
+    projectPath: Assets\Scripts\Level2\Slot2Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot2Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot2Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot2Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot3.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot3.cs
+    projectPath: Assets\Scripts\Level2\slot3.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot3.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot3.cs.meta
+    projectPath: Assets\Scripts\Level2\slot3.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot3Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot3Check.cs
+    projectPath: Assets\Scripts\Level2\Slot3Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot3Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot3Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot3Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot4.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot4.cs
+    projectPath: Assets\Scripts\Level2\slot4.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot4.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot4.cs.meta
+    projectPath: Assets\Scripts\Level2\slot4.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot4Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot4Check.cs
+    projectPath: Assets\Scripts\Level2\Slot4Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot4Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot4Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot4Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot5.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot5.cs
+    projectPath: Assets\Scripts\Level2\slot5.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot5.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot5.cs.meta
+    projectPath: Assets\Scripts\Level2\slot5.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot5Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot5Check.cs
+    projectPath: Assets\Scripts\Level2\Slot5Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot5Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot5Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot5Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot6.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot6.cs
+    projectPath: Assets\Scripts\Level2\slot6.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\slot6.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\slot6.cs.meta
+    projectPath: Assets\Scripts\Level2\slot6.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot6Check.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot6Check.cs
+    projectPath: Assets\Scripts\Level2\Slot6Check.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level2\Slot6Check.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level2\Slot6Check.cs.meta
+    projectPath: Assets\Scripts\Level2\Slot6Check.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Scripts\Level3.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level3.meta
+    projectPath: Assets\Scripts\Level3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Level3\BalanceScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level3\BalanceScript.cs
+    projectPath: Assets\Scripts\Level3\BalanceScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Level3\BalanceScript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level3\BalanceScript.cs.meta
+    projectPath: Assets\Scripts\Level3\BalanceScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Level3\LeftHolderScript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level3\LeftHolderScript.cs
+    projectPath: Assets\Scripts\Level3\LeftHolderScript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Level3\LeftHolderScript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\Level3\LeftHolderScript.cs.meta
+    projectPath: Assets\Scripts\Level3\LeftHolderScript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SetUp\FurtherInfo.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\SetUp\FurtherInfo.cs
+    projectPath: Assets\Scripts\SetUp\FurtherInfo.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SetUp\FurtherInfo.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\SetUp\FurtherInfo.cs.meta
+    projectPath: Assets\Scripts\SetUp\FurtherInfo.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\SetUp\LevelTimer.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Scripts\SetUp\LevelTimer.cs
+    projectPath: Assets\Scripts\SetUp\LevelTimer.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\SetUp.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp.meta
+    projectPath: Assets\SetUp.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Directional Light.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Directional
+      Light.prefab
+    projectPath: Assets\SetUp\Directional Light.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Directional Light.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Directional
+      Light.prefab.meta
+    projectPath: Assets\SetUp\Directional Light.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Grabbables.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Grabbables.prefab
+    projectPath: Assets\SetUp\Grabbables.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Grabbables.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Grabbables.prefab.meta
+    projectPath: Assets\SetUp\Grabbables.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\My_Teleport_Everywhere.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\My_Teleport_Everywhere.prefab
+    projectPath: Assets\SetUp\My_Teleport_Everywhere.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\My_Teleport_Everywhere.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\My_Teleport_Everywhere.prefab.meta
+    projectPath: Assets\SetUp\My_Teleport_Everywhere.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\OVRPlayerControllerMyPref.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\OVRPlayerControllerMyPref.prefab
+    projectPath: Assets\SetUp\OVRPlayerControllerMyPref.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\OVRPlayerControllerMyPref.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\OVRPlayerControllerMyPref.prefab.meta
+    projectPath: Assets\SetUp\OVRPlayerControllerMyPref.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Room.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Room.prefab
+    projectPath: Assets\SetUp\Room.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Room.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Room.prefab.meta
+    projectPath: Assets\SetUp\Room.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Table.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Table.prefab
+    projectPath: Assets\SetUp\Table.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\Table.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\Table.prefab.meta
+    projectPath: Assets\SetUp\Table.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\TeleportBeams.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\TeleportBeams.prefab
+    projectPath: Assets\SetUp\TeleportBeams.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SetUp\TeleportBeams.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SetUp\TeleportBeams.prefab.meta
+    projectPath: Assets\SetUp\TeleportBeams.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Starfield Skybox.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox.meta
+    projectPath: Assets\Starfield Skybox.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo.meta
+    projectPath: Assets\Starfield Skybox\Demo.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Back_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Back_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Back_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Down_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Down_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Down_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Front_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Front_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Front_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Left_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Left_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Left_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Right_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Right_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Right_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Up_Tex.png
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Demo\Textures\Up_Tex.png.meta
+    projectPath: Assets\Starfield Skybox\Demo\Textures\Up_Tex.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Skybox.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Skybox.mat
+    projectPath: Assets\Starfield Skybox\Skybox.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Starfield Skybox\Skybox.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\Starfield
+      Skybox\Skybox.mat.meta
+    projectPath: Assets\Starfield Skybox\Skybox.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\SzeneFuerTutVideos.unity
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SzeneFuerTutVideos.unity
+    projectPath: Assets\SzeneFuerTutVideos.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\SzeneFuerTutVideos.unity.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\SzeneFuerTutVideos.unity.meta
+    projectPath: Assets\SzeneFuerTutVideos.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\test123.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\test123.cs
+    projectPath: Assets\test123.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\test123.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\test123.cs.meta
+    projectPath: Assets\test123.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\testscript.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\testscript.cs
+    projectPath: Assets\testscript.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\testscript.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\testscript.cs.meta
+    projectPath: Assets\testscript.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\TrackCubePos.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\TrackCubePos.cs
+    projectPath: Assets\TrackCubePos.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\TrackCubePos.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\TrackCubePos.cs.meta
+    projectPath: Assets\TrackCubePos.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\turnOn.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\turnOn.cs
+    projectPath: Assets\turnOn.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\UserActionLogger.cs
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\UserActionLogger.cs
+    projectPath: Assets\UserActionLogger.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\UserActionLogger.cs.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\UserActionLogger.cs.meta
+    projectPath: Assets\UserActionLogger.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat
+    projectPath: Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat.meta
+    projectPath: Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Materials\BezierPointerTeleport.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab
+    projectPath: Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab.meta
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab.meta
+    projectPath: Assets\VRTK\LegacyExampleFiles\ExampleResources\Prefabs\TeleportBeams.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\EditorSettings.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\ProjectSettings\EditorSettings.asset
+    projectPath: ProjectSettings\EditorSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\ProjectSettings.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\ProjectSettings\ProjectSettings.asset
+    projectPath: ProjectSettings\ProjectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TagManager.asset
+    fullPath: C:\Users\s6965542\Desktop\UnityDateien\sliding doors\ProjectSettings\TagManager.asset
+    projectPath: ProjectSettings\TagManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
